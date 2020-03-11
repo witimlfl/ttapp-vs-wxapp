@@ -1,4 +1,4 @@
-<view class="intro">Welcome to Mini Program</view>
+<view class="intro">Welcome to test generic</view>
 
 <custom-checkbox></custom-checkbox>
 
