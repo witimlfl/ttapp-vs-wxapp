@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3453f4d8-ddbe-4e1c-b71d-d6fcd0692b0b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-checkbox/checkout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-checkbox/checkout.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-checkbox/checkout.ttml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-checkbox/checkout.ttss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-radio/radio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-radio/radio.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-radio/radio.ttml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/custom-radio/radio.ttss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/select/select.ttml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/components/select/select.ttss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttapp/pages/index/index.json" afterDir="false" />
-    </list>
+    <list default="true" id="3453f4d8-ddbe-4e1c-b71d-d6fcd0692b0b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -271,25 +256,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583843090178</updated>
-      <workItem from="1583843091807" duration="2521000" />
+      <workItem from="1583843091807" duration="3211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2521000" />
+    <option name="totallyTimeSpent" value="3211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2410148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2410148" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6472727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
