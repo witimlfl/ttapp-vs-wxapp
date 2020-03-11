@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "select": "../../components/select/select",
+    "custom-radio": "../../components/custom-radio/radio",
+    "custom-checkbox": "../../components/custom-checkbox/checkout"
+  }
+}

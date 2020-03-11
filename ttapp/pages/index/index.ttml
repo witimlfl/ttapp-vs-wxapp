@@ -1,0 +1,8 @@
+<view class="intro">Welcome to Mini Program</view>
+
+<custom-checkbox></custom-checkbox>
+
+
+<select generic:selectable="custom-checkbox"></select>
+
+<select generic:selectable="custom-radio"></select>

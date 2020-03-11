@@ -1,0 +1,5 @@
+<view class="intro">select modal</view>
+<view tt:for="{{ labels }}">
+    <selectable></selectable>
+     {{ item }}
+</view>

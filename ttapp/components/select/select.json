@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "componentGenerics": {
+    "selectable": {
+      "default": "../custom-radio/radio"
+    }
+  }
+}
